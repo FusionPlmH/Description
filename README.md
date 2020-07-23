@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://github.com/FusionPlmH/FusionPlmH/master/header.svg">
+	<a href="https://raw.githubusercontent.com/FusionPlmH/FusionPlmH/master/header.svg">
 		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
